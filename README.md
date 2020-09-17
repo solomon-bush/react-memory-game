@@ -16,5 +16,6 @@ Currently the implementation is basic. No timer, no score tracking, or anything 
 I plan on completing the to-do list below. If there are items that are marked off than they have been completed. 
 
 - [ ] Add Timer
+- [ ] Add Styling
 - [ ] Add Config for game (total cards, time-out, etc)
 - [ ] Build Start Screen and End Screen 
