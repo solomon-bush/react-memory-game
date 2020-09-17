@@ -32,18 +32,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "description": "1. Clone or download Repo\r 2. From the root dir, run ```npm install```\r 3. From the root dir, run ```npm start```\r 4. Enjoy",
-  "main": "index.js",
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/solomon-bush/react-memory-game.git"
-  },
-  "author": "Solomon Bush",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/solomon-bush/react-memory-game/issues"
-  },
-  "homepage": "https://github.com/solomon-bush/react-memory-game#readme"
+  }
 }
