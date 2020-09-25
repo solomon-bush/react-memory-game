@@ -16,7 +16,7 @@ Currently the implementation is basic. No timer, no score tracking, or anything 
 
 
 # Wireframe
-![Wireframe](/images/UI-Wireframe.png "Wireframe")
+![Wireframe](/images/UI-WireFrame.png "Wireframe")
 
 # ScreenShots
 
